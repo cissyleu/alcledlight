@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alcledlight.com/sitemap.xml
