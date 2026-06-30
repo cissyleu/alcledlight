@@ -1,3 +1,5 @@
-# Optional Cloudflare Pages configuration.
-# Cloudflare dashboard settings can also define this.
-pages_build_output_dir = "public"
+name = "alcledlight"
+compatibility_date = "2026-06-30"
+
+[assets]
+directory = "./public"
